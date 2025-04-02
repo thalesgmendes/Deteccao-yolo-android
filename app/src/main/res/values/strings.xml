@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application 4</string>
+    <string name="btn_iniciar_text">Camera</string>
+    <string name="btn_camera_text">Iniciar</string>
+    <string name="image_description">imagem</string>
+    <string name="btn_desligar_text">Sair</string>
+    <string name="btn_camera_desc">Botão para abrir a câmera</string>
+</resources>
